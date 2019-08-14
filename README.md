@@ -7,3 +7,5 @@ The game prints all the game outputs on the console and the players have to inte
 **Entry Point**: main.py  
 **External packages used**: numpy  
 
+Feel free to go ahead and use this code as practice or in some projects.
+
